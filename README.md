@@ -148,6 +148,9 @@ There is a couple of logos for the following franchises:
 - `Pokemon`
 - `SaGa`
 - `Zelda`
+- `Harvest Moon (NEW)`
+- `Metal Gear (NEW)`
+- `Sonic (NEW)`
 
 Miscellaneous Collections:
 - `Grouvee Playing`
